@@ -1,1 +1,1 @@
-# chat_app
+This project is a chat application built using the Python Flask web framework and Socket.IO library. The application allows users to join chat rooms and exchange messages in real-time. The client-side code includes a responsive and modern user interface built using Bootstrap and JavaScript. Users can join the chat rooms using their usernames and interact with other users by sending and receiving messages. The project is well-documented as well.
